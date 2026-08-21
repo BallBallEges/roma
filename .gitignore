@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Logs and temporary outputs
+*.log
+outputs/
+results/
+cache/
+
+# Secrets
+.env
+*.key
